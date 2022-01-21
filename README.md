@@ -1,3 +1,7 @@
+# Fork Description
+
+Форк сделан, чтобы избавиться от ненужных gem зависимостей, которые заставляют обновляться. 
+
 # SumSub Ruby SDK
 
 This gem is an unofficial SDK for the [SumSub API](https://developers.sumsub.com/api-reference/).
