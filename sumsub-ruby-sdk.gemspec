@@ -30,7 +30,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_dependency "http", ">= 4.0"
-  spec.add_dependency "dry-struct", "~> 1.4"
+  spec.add_dependency "dry-struct"
   spec.add_dependency "mime-types", "~> 3.3"
 
   spec.add_development_dependency "rspec", "~> 3.10"
